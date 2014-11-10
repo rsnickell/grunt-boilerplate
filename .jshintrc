@@ -1,0 +1,7 @@
+{
+    "curly": true,
+    "eqeqeq": false,
+    "eqnull": true,
+    "browser": true,
+    "es3": true //To catch trailing commas
+}

@@ -1,0 +1,23 @@
+{
+  "name": "grunt-boilerplate",
+  "version": "0.0.1",
+  "description": "A grunt jshint/watch boilerplate configuration that supports additional drop in configuration.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Nickell",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^4.0.6",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "~0.7.0",
+    "jshint-stylish": "^1.0.0",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
